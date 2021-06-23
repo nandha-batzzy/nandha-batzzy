@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandha-batzzy
-- 👀 I’m interested in Python Data Structures and Data Handling algorithms
+- 👀 I’m interested in DATA ANALYSIS AND MACHINE LEARNING
 - 🌱 I’m currently learning Python Data structures
 - 💞️ I’m looking to collaborate on Data structures
 - 📫 How to reach me nandhasuit@gmail.com
