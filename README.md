@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nandha-batzzy
+- 👋 Hi, I’m Nandha Kumar 
 - 👀 I’m interested in DATA ANALYSIS AND MACHINE LEARNING
 - 🌱 I’m currently learning Python Data structures
 - 💞️ I’m looking to collaborate on Data structures
