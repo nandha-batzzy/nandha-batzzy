@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nandha Kumar 
 - 👀 I’m interested in DATA ANALYSIS AND MACHINE LEARNING
-- 🌱 I’m currently learning Python Data structures
-- 💞️ I’m looking to collaborate on Data structures
+- 🌱 I’m currently learning Python DATA ANALYSIS AND MACHINE LEARNING
+- 💞️ I’m looking to collaborate on DATA ANALYSIS AND MACHINE LEARNING
 - 📫 How to reach me nandhasuit@gmail.com
 
 <!---
